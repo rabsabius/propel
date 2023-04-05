@@ -1,2 +1,2 @@
 # propel
-Propel2 with index hint feature
+Propel2 with index hint support.
